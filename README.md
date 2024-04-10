@@ -1,4 +1,4 @@
-![Esempio di homepage](logo.png)
+![Esempio di homepage](resources/img/logo.png)
 
 # ![#285a8c](https://via.placeholder.com/15/285a8c/000000?text=+) Laravel BDoctors
 
