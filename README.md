@@ -1,6 +1,5 @@
 <img src="resources/img/logo.png" alt="Logo del progetto" width="200" height="200">
 
-
 # ![#285a8c](https://via.placeholder.com/15/285a8c/000000?text=+) Laravel BDoctors
 
 Laravel BDoctors rappresenta la parte back-end di un sito web progettato per semplificare la gestione e la promozione delle attività mediche online. Il nostro team, composto da Nicolò, Dario, Nazariy, Christian e Luca, ha collaborato per creare questa piattaforma dedicata agli operatori sanitari, offrendo loro uno strumento intuitivo e sicuro per registrarsi, aggiornare il proprio profilo e interagire con i pazienti in modo efficiente.
