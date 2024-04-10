@@ -1,8 +1,8 @@
-# Laravel BDoctors
+# ![#285a8c](https://via.placeholder.com/15/285a8c/000000?text=+) Laravel BDoctors
 
 Laravel BDoctors rappresenta la parte back-end di un sito web progettato per semplificare la gestione e la promozione delle attività mediche online. Il nostro team, composto da Nicolò, Dario, Nazariy, Christian e Luca, ha collaborato per creare questa piattaforma dedicata agli operatori sanitari, offrendo loro uno strumento intuitivo e sicuro per registrarsi, aggiornare il proprio profilo e interagire con i pazienti in modo efficiente.
 
-## Caratteristiche Principali
+## ![#66cc99](https://via.placeholder.com/15/66cc99/000000?text=+) Caratteristiche Principali
 
 - **Registrazione del Medico**: I medici possono registrarsi inserendo le loro informazioni personali, specializzazioni e prestazioni offerte.
 - **Gestione delle Recensioni e dei Messaggi**: I medici iscritti possono visualizzare e gestire le recensioni e i messaggi inviati dai loro pazienti direttamente dal pannello di controllo, incluso l'opzione per eliminare i messaggi indesiderati.
@@ -11,14 +11,14 @@ Laravel BDoctors rappresenta la parte back-end di un sito web progettato per sem
 - **Gestione del Profilo**: I medici possono modificare o eliminare il proprio profilo in qualsiasi momento per mantenere le informazioni aggiornate e accurate.
 - **Responsive al 100%**: Il sito è completamente responsive e ottimizzato per essere visualizzato su dispositivi mobili, garantendo un'esperienza utente fluida su smartphone.
 
-## Tecnologie Utilizzate
+## ![#66cc99](https://via.placeholder.com/15/66cc99/000000?text=+) Tecnologie Utilizzate
 
 - **Front-end**: HTML, SCSS, Bootstrap.
 - **Back-end**: PHP, Laravel.
 - **Pagamenti**: Braintree.
 - **Grafici**: Chart.js.
 
-## Contatti
+## ![#66cc99](https://via.placeholder.com/15/66cc99/000000?text=+) Contatti
 
 Ecco i profili GitHub di tutti i membri del gruppo:
 
@@ -28,7 +28,7 @@ Ecco i profili GitHub di tutti i membri del gruppo:
 - Christian: [GitHub](https://github.com/Gresdian)
 - Luca: [GitHub](https://github.com/LucaFormica17)
 
-## Installazione
+## ![#66cc99](https://via.placeholder.com/15/66cc99/000000?text=+) Installazione
 
 1. Clona il repository dal seguente link: [https://github.com/nicomanunta/laravel-bdoctors.git].
 2. Esegui `composer install` per installare le dipendenze PHP.
