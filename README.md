@@ -1,64 +1,38 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Laravel BDoctors
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Laravel BDoctors rappresenta la parte back-end di un sito web progettato per semplificare la gestione e la promozione delle attività mediche online. Il nostro team di sviluppatori, composto da Nicolò, Dario, Nazariy, Christian e Luca, ha collaborato per creare questa piattaforma dedicata agli operatori sanitari, offrendo loro uno strumento intuitivo e sicuro per registrarsi, aggiornare il proprio profilo e interagire con i pazienti in modo efficiente.
 
-## About Laravel
+## Caratteristiche Principali
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+- **Registrazione del Medico**: I medici possono registrarsi inserendo le loro informazioni personali, specializzazioni e prestazioni offerte.
+- **Gestione delle Recensioni e dei Messaggi**: I medici iscritti possono visualizzare e gestire le recensioni e i messaggi inviati dai loro pazienti direttamente dal pannello di controllo, incluso l'opzione per eliminare i messaggi indesiderati.
+- **Statistiche Dettagliate**: I medici hanno accesso a grafici dettagliati che mostrano il numero di messaggi, recensioni e la media dei voti ricevuti, suddivisi per mese, offrendo un'analisi completa delle attività e delle prestazioni nel tempo.
+- **Sponsorizzazione**: I medici hanno la possibilità di aumentare la visibilità del loro profilo selezionando un piano di sponsorizzazione (base, avanzato o premium) che li posiziona in cima ai risultati di ricerca degli utenti.
+- **Gestione del Profilo**: I medici possono modificare o eliminare il proprio profilo in qualsiasi momento per mantenere le informazioni aggiornate e accurate.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Tecnologie Utilizzate
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- **Front-end**: HTML, SCSS, Bootstrap.
+- **Back-end**: PHP, Laravel.
+- **Pagamenti**: Braintree.
+- **Grafici**: Chart.js.
 
-## Learning Laravel
+## Contatti
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Ecco i profili GitHub di tutti i membri del gruppo:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Nicolò: [GitHub](https://github.com/nicomanunta)
+- Dario: [GitHub](https://github.com/DarioLoForti)
+- Nazariy: [GitHub](https://github.com/Zariy7)
+- Christian: [GitHub](https://github.com/Gresdian)
+- Luca: [GitHub](https://github.com/LucaFormica17)
 
-## Laravel Sponsors
+## Installazione
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+1. Clona il repository dal seguente link: [https://github.com/nicomanunta/laravel-bdoctors.git].
+2. Esegui `composer install` per installare le dipendenze PHP.
+3. Copia il file `.env.example` in un nuovo file chiamato `.env` e configura le variabili d'ambiente, inclusi i dettagli del database e le credenziali di Braintree.
+4. Esegui `php artisan key:generate` per generare la chiave dell'applicazione.
+5. Esegui `php artisan migrate` per eseguire le migrazioni del database.
+6. Esegui `php artisan serve` per avviare il server locale.
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
