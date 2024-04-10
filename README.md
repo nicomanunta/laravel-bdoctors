@@ -9,6 +9,7 @@ Laravel BDoctors rappresenta la parte back-end di un sito web progettato per sem
 - **Statistiche Dettagliate**: I medici hanno accesso a grafici dettagliati che mostrano il numero di messaggi, recensioni e la media dei voti ricevuti, suddivisi per mese, offrendo un'analisi completa delle attività e delle prestazioni nel tempo.
 - **Sponsorizzazione**: I medici hanno la possibilità di aumentare la visibilità del loro profilo selezionando un piano di sponsorizzazione (base, avanzato o premium) che li posiziona in cima ai risultati di ricerca degli utenti.
 - **Gestione del Profilo**: I medici possono modificare o eliminare il proprio profilo in qualsiasi momento per mantenere le informazioni aggiornate e accurate.
+- **Responsive al 100%**: Il sito è completamente responsive e ottimizzato per essere visualizzato su dispositivi mobili, garantendo un'esperienza utente fluida su smartphone.
 
 ## Tecnologie Utilizzate
 
