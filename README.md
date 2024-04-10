@@ -1,4 +1,4 @@
-![Esempio di homepage](resources/img/logo.png)
+<img src="resources/img/logo.png" alt="Logo del progetto" width="200" height="200">
 
 # ![#285a8c](https://via.placeholder.com/15/285a8c/000000?text=+) Laravel BDoctors
 
