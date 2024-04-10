@@ -1,6 +1,6 @@
 # Laravel BDoctors
 
-Laravel BDoctors rappresenta la parte back-end di un sito web progettato per semplificare la gestione e la promozione delle attività mediche online. Il nostro team di sviluppatori, composto da Nicolò, Dario, Nazariy, Christian e Luca, ha collaborato per creare questa piattaforma dedicata agli operatori sanitari, offrendo loro uno strumento intuitivo e sicuro per registrarsi, aggiornare il proprio profilo e interagire con i pazienti in modo efficiente.
+Laravel BDoctors rappresenta la parte back-end di un sito web progettato per semplificare la gestione e la promozione delle attività mediche online. Il nostro team, composto da Nicolò, Dario, Nazariy, Christian e Luca, ha collaborato per creare questa piattaforma dedicata agli operatori sanitari, offrendo loro uno strumento intuitivo e sicuro per registrarsi, aggiornare il proprio profilo e interagire con i pazienti in modo efficiente.
 
 ## Caratteristiche Principali
 
